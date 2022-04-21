@@ -1,0 +1,60 @@
+* {
+    
+} 
+
+header{
+    background-color: crimson;
+    text-align: center;
+    padding: 20px 0;
+}
+header h1 {
+    color: white;
+    border: 10px solid white;
+    border-radius: 35px;
+    display: inline-flex;
+    padding: 5px 10px;
+}
+ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style-type: none;
+    
+}
+.li-item{
+    margin: 5px 100px;
+    
+}
+article h2 {
+    color: crimson;
+    font-size: 40px;
+}
+article {
+    margin: 50px 270px;
+}
+.main-nav {
+    
+}
+a {
+    text-decoration: none;
+    color: gray;
+}
+.jointoday {
+    color: gray;
+    text-align: center;
+    background-color: rgb(226, 226, 226);
+}
+.images li {
+    width: 400px;
+    height: 200px;
+    display: flex;
+}
+footer {
+    text-align: center;
+    background-color: crimson;
+    padding: 20px 0px;
+    color: white;
+}
+.join {
+    color: crimson;
+}
